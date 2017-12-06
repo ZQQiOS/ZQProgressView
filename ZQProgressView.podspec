@@ -8,7 +8,6 @@ s.authors               = { "ZQQ" => "zqq0702@sina.com" }
 s.source                = { :git => "https://github.com/ZQQiOS/ZQProgressView.git", :tag => "0.0.1" }
 s.platform     = :ios, "8.0"
 s.framework             = "UIKit"
-s.source_files          = "ZQProgressView", "ZQProgressView/**/*.{h,m}"
-
+s.source_files          = "ZQProgressView"
 
 end
